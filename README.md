@@ -8,22 +8,25 @@ Este repositório é dedicado ao estudo e implementação dos algoritmos apresen
 * **Implementação Prática:** Replicar e estender os algoritmos apresentados no livro, utilizando a linguagem Python e bibliotecas como NumPy, SciPy, Matplotlib, GDAL, scikit-learn, TensorFlow e Google Earth Engine (GEE).
 * **Colaboração:** Proporcionar um ambiente para que membros do grupo possam contribuir com suas implementações, experimentos, análises e documentação.
 * **Compartilhamento de Conhecimento:** Criar uma base de conhecimento acessível e organizada para futuras consultas e projetos.
-
 ## 📦 Estrutura do Repositório
 
-O repositório é organizado por capítulos do livro, com subpastas para código, imagens e dados:
-├── Chapter01/              # Capítulo 1: Imagens, Arrays e Matrizes
-│   ├── code/               # Scripts Python e Jupyter Notebooks do capítulo
-│   ├── images/             # Figuras geradas pelos códigos e referências do livro
-│   └── data/               # Dados específicos do capítulo
-├── Chapter02/              # Capítulo 2: Estatística de Imagens
-│   ├── code/
-│   ├── images/
-│   └── data/
+O repositório é organizado por capítulos do livro, com subpastas para código, imagens e dados, seguindo o padrão abaixo:
 
-... Capítulos (03 a 09 seguem o mesmo padrão)
-├── auxil/                  # Módulos Python auxiliares e bibliotecas de apoio (Apêndice C do livro)
-└── README.md               # Este arquivo
+* **`Chapter01/`** - Capítulo 1: Imagens, Arrays e Matrizes
+    * `code/` - Scripts Python e Jupyter Notebooks do capítulo.
+    * `images/` - Figuras geradas pelos códigos e referências do livro.
+    * `data/` - Dados específicos do capítulo.
+* **`Chapter02/`** - Capítulo 2: Estatística de Imagens
+    * `code/`
+    * `images/`
+    * `data/`
+* **(Capítulos 03 a 09 seguem o mesmo padrão)**
+* **`auxil/`** - Módulos Python auxiliares e bibliotecas de apoio (conforme Apêndice C do livro).
+* **`notebooks/`** - (Opcional) Notebooks de alto nível ou experimentos gerais que podem cruzar capítulos.
+* **`README.md`** - Este arquivo principal de descrição do projeto.
+* **`LICENSE`** - Arquivo com a licença do projeto (ex: MIT, Apache 2.0).
+* **`.gitignore`** - Define arquivos e diretórios a serem ignorados pelo controle de versão Git.
+* **`.gitattributes`** - Configurações para o Git lidar com tipos de arquivos específicos.
 
 
 ## 🚀 Como Contribuir
