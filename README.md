@@ -81,6 +81,32 @@ Valorizamos muito a colaboração de todos os membros do grupo. Siga estas diret
     * Abra um terminal no Jupyter Notebook (File -> New -> Terminal).
     * Execute: `earthengine authenticate` e siga as instruções.
 
+### Extensões Recomendadas para VS Code (Para Anotações em Markdown)
+
+Para otimizar a experiência de escrita e visualização das anotações em Markdown (localizadas nas pastas `notes/` de cada capítulo), sugerimos a instalação das seguintes extensões no seu Visual Studio Code:
+
+1.  [cite_start]**Markdown All in One** [cite: 1]
+    * **Autor:** Yu Zhang
+    * **Por que instalar?** Esta extensão oferece um conjunto completo de ferramentas essenciais para a escrita de Markdown no VS Code. [cite_start]Ela aprimora sua produtividade com atalhos de teclado, auto-completar, e um recurso de "Table of Contents" (TOC) que gera automaticamente um índice navegável para suas anotações. [cite: 1] [cite_start]O suporte a matemática (equações LaTeX) também é um diferencial, garantindo que suas fórmulas sejam renderizadas corretamente na pré-visualização. [cite: 1]
+    * **Processo de Instalação:**
+        1.  Abra o VS Code.
+        2.  Vá para a aba de Extensões (Ctrl+Shift+X).
+        3.  Procure por "Markdown All in One".
+        4.  Clique em "Install".
+
+2.  [cite_start]**Markdown Preview Enhanced** [cite: 2]
+    * **Autor:** Yiyi Wang
+    * **Por que instalar?** Esta extensão eleva a pré-visualização do Markdown no VS Code a outro nível. [cite_start]Ela fornece funcionalidades úteis como sincronização automática da rolagem entre o editor e a pré-visualização, tipografia de matemática (MathJax/KaTeX) de alta qualidade para suas equações LaTeX, exportação para PDF ou HTML, e suporte para trechos de código (code chunks). [cite: 2] É ideal para garantir que suas anotações com fórmulas matemáticas complexas sejam exibidas de forma clara e profissional.
+    * **Processo de Instalação:**
+        1.  Abra o VS Code.
+        2.  Vá para a aba de Extensões (Ctrl+Shift+X).
+        3.  Procure por "Markdown Preview Enhanced".
+        4.  Clique em "Install".
+
+Com essas extensões, você terá um ambiente robusto no VS Code para criar anotações ricas em texto, código (em notebooks) e matemática, tudo de forma integrada e eficiente.
+
+---
+
 ## 📚 Referência do Livro
 
 Canty, Morton John. (2019). *Image Analysis, Classification and Change Detection in Remote Sensing: With Algorithms for Python, Fourth Edition*. Chapman and Hall/CRC.
