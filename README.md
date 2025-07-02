@@ -85,18 +85,18 @@ Valorizamos muito a colaboração de todos os membros do grupo. Siga estas diret
 
 Para otimizar a experiência de escrita e visualização das anotações em Markdown (localizadas nas pastas `notes/` de cada capítulo), sugerimos a instalação das seguintes extensões no seu Visual Studio Code:
 
-1.  [cite_start]**Markdown All in One** [cite: 1]
+1. **Markdown All in One**
     * **Autor:** Yu Zhang
-    * **Por que instalar?** Esta extensão oferece um conjunto completo de ferramentas essenciais para a escrita de Markdown no VS Code. [cite_start]Ela aprimora sua produtividade com atalhos de teclado, auto-completar, e um recurso de "Table of Contents" (TOC) que gera automaticamente um índice navegável para suas anotações. [cite: 1] [cite_start]O suporte a matemática (equações LaTeX) também é um diferencial, garantindo que suas fórmulas sejam renderizadas corretamente na pré-visualização. [cite: 1]
+    * **Por que instalar?** Esta extensão oferece um conjunto completo de ferramentas essenciais para a escrita de Markdown no VS Code.Ela aprimora sua produtividade com atalhos de teclado, auto-completar, e um recurso de "Table of Contents" (TOC) que gera automaticamente um índice navegável para suas anotações. O suporte a matemática (equações LaTeX) também é um diferencial, garantindo que suas fórmulas sejam renderizadas corretamente na pré-visualização. 
     * **Processo de Instalação:**
         1.  Abra o VS Code.
         2.  Vá para a aba de Extensões (Ctrl+Shift+X).
         3.  Procure por "Markdown All in One".
         4.  Clique em "Install".
 
-2.  [cite_start]**Markdown Preview Enhanced** [cite: 2]
+2.  **Markdown Preview Enhanced**
     * **Autor:** Yiyi Wang
-    * **Por que instalar?** Esta extensão eleva a pré-visualização do Markdown no VS Code a outro nível. [cite_start]Ela fornece funcionalidades úteis como sincronização automática da rolagem entre o editor e a pré-visualização, tipografia de matemática (MathJax/KaTeX) de alta qualidade para suas equações LaTeX, exportação para PDF ou HTML, e suporte para trechos de código (code chunks). [cite: 2] É ideal para garantir que suas anotações com fórmulas matemáticas complexas sejam exibidas de forma clara e profissional.
+    * **Por que instalar?** Esta extensão eleva a pré-visualização do Markdown no VS Code a outro nível.Ela fornece funcionalidades úteis como sincronização automática da rolagem entre o editor e a pré-visualização, tipografia de matemática (MathJax/KaTeX) de alta qualidade para suas equações LaTeX, exportação para PDF ou HTML, e suporte para trechos de código (code chunks). É ideal para garantir que suas anotações com fórmulas matemáticas complexas sejam exibidas de forma clara e profissional.
     * **Processo de Instalação:**
         1.  Abra o VS Code.
         2.  Vá para a aba de Extensões (Ctrl+Shift+X).
