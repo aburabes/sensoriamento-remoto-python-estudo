@@ -73,7 +73,7 @@ Valorizamos muito a colaboração de todos os membros do grupo. Siga estas diret
     docker run -d -p 8888:8888 -v <caminho-para-seus-dados-locais>:/home/imagery/ --name=crc5 mort/crc5docker
     ```
     Substitua `<caminho-para-seus-dados-locais>` pelo caminho absoluto da pasta em seu sistema local onde você armazenará os dados de imagem maiores ou personalizados. Esta pasta estará acessível dentro do contêiner em `/home/myimagery/`. Os dados de exemplo do livro já estão em `/home/imagery/` dentro do contêiner.
-    Caso não seja possível usar as imagens no docker, baixe as imagens presentes no seguinte link: 
+    Caso não seja possível usar as imagens no docker, baixe as imagens presentes no seguinte link: https://drive.google.com/drive/folders/1O-J5HIpPIulxlSpq6lVV_LnZNOphtLhl?usp=drive_link
 3.  **Acesse o Jupyter Notebook:** Abra seu navegador e navegue para `http://localhost:443`.
 4.  **Autenticação do Google Earth Engine (Opcional, mas Recomendado):**
     Para usar a API do GEE dentro do contêiner:
