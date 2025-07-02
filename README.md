@@ -12,7 +12,7 @@ Este repositório é dedicado ao estudo e implementação dos algoritmos apresen
 
 O repositório é organizado por capítulos do livro, com subpastas para código, imagens e dados, seguindo o padrão abaixo:
 
-* **`Chapter01/`** - Capítulo 1: Imagens, Arrays e Matrizes
+* **`Chapte01/`** - Capítulo 1: Imagens, Arrays e Matrizes
     * `code/` - Scripts Python e Jupyter Notebooks do capítulo.
     * `images/` - Figuras geradas pelos códigos e referências do livro.
     * `data/` - Dados específicos do capítulo.
