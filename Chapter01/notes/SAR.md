@@ -10,6 +10,7 @@ A reflexão especular ocorre quando um pulso de micro-ondas incide em uma superf
 ### Reflexão Difusa
 
 A reflexão difusa, ou espalhamento, ocorre quando a superfície onde o pulso incide é rugosa (em comparação com o comprimento de onda do radar) ou complexa. Nesse caso, a energia do pulso é espalhada em múltiplas direções. Quanto mais rugosa ou complexa a superfície, maior a proporção da energia espalhada que retorna ao sensor.
+
 ![alt text](<images/Pasted image 20250703173522.png>)
 
 
