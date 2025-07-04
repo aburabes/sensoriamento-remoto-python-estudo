@@ -1,6 +1,6 @@
 # 📚 Análise de Imagens, Classificação e Detecção de Mudanças em Sensoriamento Remoto com Algoritmos em Python (Estudo Dirigido)
 
-Este repositório é dedicado ao estudo e implementação dos algoritmos apresentados no livro "Image Analysis, Classification and Change Detection in Remote Sensing: With Algorithms for Algorithms for Python, Fourth Edition" de Morton John Canty. A iniciativa tem como objetivo servir como um recurso colaborativo para o nosso grupo de pesquisa, permitindo o estudo aprofundado de cada capítulo e a implementação prática dos conceitos discutidos.
+Este repositório é dedicado ao estudo e implementação dos algoritmos apresentados no livro "[Image Analysis, Classification and Change Detection in Remote Sensing: With Algorithms for Algorithms for Python, Fourth Edition](https://drive.google.com/file/d/1MYs_I_Z8rs_josY5mjclam8W7i2Et_j3/view?usp=sharing)" de Morton John Canty. A iniciativa tem como objetivo servir como um recurso colaborativo para o nosso grupo de pesquisa, permitindo o estudo aprofundado de cada capítulo e a implementação prática dos conceitos discutidos.
 
 ## 🎯 Objetivos
 
