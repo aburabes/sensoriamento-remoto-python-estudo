@@ -120,7 +120,7 @@ Se você não tem permissões de escrita direta neste repositório, pode contrib
 
 O livro **recomenda** o uso de Docker por ser a maneira mais fácil de executar o software e códigos, conforme dito no Apêndice C do livro.
 
-1.  **Instale o Docker:** Siga as instruções em [docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/).
+1.  **Instale o Docker:** Siga as instruções em [Docker Desktop](https://docs.docker.com/desktop/).
 2.  **Puxe e Execute o Contêiner Docker:**
     Na quarta edição o livro utiliza o contêiner `mort/crc4docker`, mas este já está inutilizável. Na quinta edição é utilizado o contêiner `mort/crc5docker`. Então, use o seguinte comando:
     ```bash
@@ -128,7 +128,7 @@ O livro **recomenda** o uso de Docker por ser a maneira mais fácil de executar 
     ```
     Substitua `<caminho-para-seus-dados-locais>` pelo caminho absoluto da pasta em seu sistema local onde você armazenará os dados de imagem maiores ou personalizados. Esta pasta estará acessível dentro do contêiner em `/home/myimagery/`. Os dados de exemplo do livro já estão em `/home/imagery/` dentro do contêiner.
 
-    Caso não seja possível usar o Docker, baixe os arquivos de imagem presentes no seguinte link: https://drive.google.com/drive/folders/1O-J5HIpPIulxlSpq6lVV_LnZNOphtLhl?usp=drive_link e armazene-os em seu HDD/SSD, fora do diretório do projeto clonado. **É crucial não incluir esses arquivos de imagem grandes diretamente nos commits do Git, pois o GitHub bloqueia commits que contenham arquivos individuais maiores que 100 MB**. Além disso, arquivos acima de 50 MB já são fortemente desencorajados para o versionamento direto. Para gerenciar arquivos grandes versionados, a ferramenta recomendada é o Git Large File Storage (LFS).
+    Caso não seja possível usar o Docker, baixe os arquivos de imagem presentes no [Google Drive](https://drive.google.com/drive/folders/1O-J5HIpPIulxlSpq6lVV_LnZNOphtLhl?usp=drive_link) e armazene-os em seu HDD/SSD, fora do diretório do projeto clonado. **É crucial não incluir esses arquivos de imagem grandes diretamente nos commits do Git, pois o GitHub bloqueia commits que contenham arquivos individuais maiores que 100 MB**. Além disso, arquivos acima de 50 MB já são fortemente desencorajados para o versionamento direto. Para gerenciar arquivos grandes versionados, a ferramenta recomendada é o Git Large File Storage (LFS).
 4. **Controle do Contêiner Docker**
    * Para parar o contêiner: `docker stop crc5`.
    * Para reiniciar o contêiner: `docker start crc5`.    
